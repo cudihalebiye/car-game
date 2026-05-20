@@ -19,4 +19,19 @@ Python ve Pygame kullanılarak geliştirilmiş basit bir araba yarış oyunudur.
 ## Geliştirici
 
 cudihalebiye
+## Oyunu Çalıştırma
+
+Projeyi çalıştırmak için:
+
+```bash
+pip install pygame
+python main.py
+```
+
+Eğer dosya src/cekirdek klasöründeyse:
+
+```bash
+cd src/cekirdek
+python main.py
+```
 
